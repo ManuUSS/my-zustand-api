@@ -35,7 +35,52 @@
       ]
     },
     {
-
+      "id": 2,
+      "name": "Suguru Geto",
+      "serie": "Jujutsu Kaisen",
+      "image": "https://images8.alphacoders.com/132/1325607.jpeg",
+      "about": "Inicialmente, es un excompañero de Satoru Gojo que se convierte en antagonista, liderando maldiciones y desafiando a los protagonistas. Es el mejor amigo del hechizero más poderoso",
+      "status": "dead",
+      "powers": [
+        {
+          "name": "Encarnación de Tamamo no Mae",
+          "efectiveness": 8
+        }, 
+        {
+          "name": "Manipulación Extrema de Maldiciones: Tornado",
+          "efectiveness": 7
+        },
+        {
+          "name": "Maldición Almacenadora de Cosas",
+          "efectiveness": 8
+        },
+        {
+          "name": "Dragón Arco Iris",
+          "efectiveness": 6
+        },
+        {
+          "name": "Kuchisake-Onna",
+          "efectiveness": 6
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Toji Fushiguru",
+      "serie": "Jujutsu Kaisen",
+      "image": "https://butwhytho.net/wp-content/uploads/2023/07/Toji-Fushiguro-But-Why-Tho-1.jpg",
+      "about": "Es un hechicero renegado y uno de los antagonistas en la serie. Su función principal es representar una amenaza tanto para los hechiceros como para las maldiciones. Toji es un maestro en la lucha cuerpo a cuerpo y tiene un desprecio por la jujutsu, prefiriendo métodos más simples y mortales. Su aparición en la historia agrega un elemento de peligro y complejidad, ya que desafía a los protagonistas y cuestiona las normas y jerarquías del mundo de los hechiceros",
+      "status": "dead",
+      "powers": [
+        {
+          "name": "Indetectable",
+          "efectiveness": 8
+        }, 
+        {
+          "name": "Contrato Vinculante",
+          "efectiveness": 8
+        }
+      ]
     }
   ]
 }
