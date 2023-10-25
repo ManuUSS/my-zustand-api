@@ -137,6 +137,28 @@
           "efectiveness": 6
         }
       ]
+    },
+    {
+      "id": 6,
+      "name": "Zenitsu Agatsuma",
+      "serie": "Demon Slayer",
+      "image": "https://www.egames.news/__export/1643571844615/sites/debate/img/2022/01/30/cuxl_es_el_verdadero_poder_de_zenitsu_agatsuma_en_demon_slayer.jpg_554688468.jpg",
+      "about": " Es un joven cazador de demonios que a menudo muestra una personalidad cobarde y asustadiza. Tiene cabello amarillo y usa un kimono con un rayado característico. Aunque inicialmente se muestra como alguien temeroso y renuente en la lucha contra los demonios, Zenitsu posee un talento innato para la técnica de Rayo y puede ser increíblemente poderoso cuando supera su miedo.",
+      "status": "alive",
+      "powers": [
+        {
+          "name": "Audición aguda",
+          "efectiveness": 8
+        }, 
+        {
+          "name": "Velocidad de los dioses",
+          "efectiveness": 7
+        },
+        {
+          "name": "Combate incosciente",
+          "efectiveness": 8
+        }
+      ]
     }
   ]
 }
