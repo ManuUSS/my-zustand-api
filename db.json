@@ -81,6 +81,62 @@
           "efectiveness": 8
         }
       ]
+    },
+    {
+      "id": 4,
+      "name": "Tanjiro Kamado",
+      "serie": "Demon Slayer",
+      "image": "https://static.animecorner.me/2022/07/demon-slayer-tanjiro-kamado-2022-birthday-trailer-1024x535.jpg",
+      "about": " Es un joven amable y valiente con cabello negro y ojos de color carbón. Tras la tragedia de su familia, se convierte en un cazador de demonios para vengar la muerte de su familia y buscar una cura para su hermana Nezuko, quien se convierte en un demonio. Tanjiro es conocido por su tenacidad, fuerte sentido de la justicia y habilidades mejoradas en combate",
+      "status": "alive",
+      "powers": [
+        {
+          "name": "Olfato Mejorado",
+          "efectiveness": 8
+        }, 
+        {
+          "name": "Marca de Cazador de Demonios",
+          "efectiveness": 8
+        },
+        {
+          "name": "Katana Nichirin Rojo Carmesí",
+          "efectiveness": 8
+        },
+        {
+          "name": "Mundo Transparente",
+          "efectiveness": 8
+        },
+        {
+          "name": "Respiración del Agua",
+          "efectiveness": 9
+        },
+        {
+          "name": "Respiración del Sol",
+          "efectiveness": 9
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Inosuke Hashibara",
+      "serie": "Demon Slayer",
+      "image": "https://images3.alphacoders.com/126/1269680.jpg",
+      "about": " Es un joven cazador de demonios con una personalidad salvaje y un estilo de combate feroz. Inosuke lleva una máscara de jabalí en su rostro, lo que oculta su apariencia, y tiene una melena de cerdas en el pelo. Es valiente y temerario, a menudo enfrentándose a los demonios sin pensarlo dos veces. Su habilidad en el combate es excepcional, ya que confía en su fuerza y agilidad para luchar contra las amenazas demoníacas.",
+      "status": "unknown",
+      "powers": [
+        {
+          "name": "Tacto Mejorado",
+          "efectiveness": 9
+        }, 
+        {
+          "name": "Aliento de la bestia",
+          "efectiveness": 8
+        },
+        {
+          "name": "Cambio de órganos",
+          "efectiveness": 6
+        }
+      ]
     }
   ]
 }
