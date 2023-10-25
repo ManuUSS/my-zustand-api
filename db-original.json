@@ -4,8 +4,38 @@
       "id": 1,
       "name": "Satoru Gojo",
       "serie": "Jujutsu Kaisen",
+      "image": "https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2023/07/jujutsu-kaisen-gojo-fanart-husbando.jpg",
       "about": "Es un profesor y uno de los hechiceros más poderosos de la serie. Su función principal es entrenar a los estudiantes en la Escuela Técnica de Hechicería de Tokio, así como liderarlos en la lucha contra las maldiciones y demonios que amenazan a la humanidad. Gojo destaca por su carisma, astucia y habilidades sobresalientes en el combate, especialmente debido a sus Ojos Malditos, una habilidad especial que le otorga una ventaja sobrenatural en la lucha contra maldiciones",
-      "status": "alive"
+      "status": "alive",
+      "powers": [
+        {
+          "name": "Infinito",
+          "efectiveness": 10
+        }, 
+        {
+          "name": "Rotación Avante: Azul",
+          "efectiveness": 7
+        },
+        {
+          "name": "Rotación Avante Máxima: Resplandor Azul",
+          "efectiveness": 8
+        },
+        {
+          "name": "Rotación Inversa: Resplandor Rojo",
+          "efectiveness": 9
+        },
+        {
+          "name": "Imaginaria: Púrpura",
+          "efectiveness": 9.5
+        },
+        {
+          "name": "Vacío inconmesurable",
+          "efectiveness": 10
+        }
+      ]
+    },
+    {
+
     }
   ]
 }
