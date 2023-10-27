@@ -88,14 +88,10 @@
       "serie": "Jujutsu Kaisen",
       "image": "https://www.mundodeportivo.com/alfabeta/hero/2021/05/Yuji-Itadori1.jpg?width=1200&aspect_ratio=16:9",
       "about": "El protagonista de Jujutsu Kaisen, Su vida cambia drásticamente cuando se encuentra con un objeto maldito extremadamente peligroso que desencadena una serie de eventos que lo llevan a involucrarse en el mundo de la hechicería y las maldiciones.",
-      "status": "dead",
+      "status": "alive",
       "powers": [
         {
-          "name": "Indetectable",
-          "efectiveness": 8
-        }, 
-        {
-          "name": "Contrato Vinculante",
+          "name": "Golpe directo",
           "efectiveness": 8
         }
       ]
@@ -161,7 +157,7 @@
       "name": "Zenitsu Agatsuma",
       "serie": "Demon Slayer",
       "image": "https://www.egames.news/__export/1643571844615/sites/debate/img/2022/01/30/cuxl_es_el_verdadero_poder_de_zenitsu_agatsuma_en_demon_slayer.jpg_554688468.jpg",
-      "about": "Es un joven cazador de demonios que a menudo muestra una personalidad cobarde y asustadiza. Tiene cabello amarillo y usa un kimono con un rayado característico. Aunque inicialmente se muestra como alguien temeroso y renuente en la lucha contra los demonios, Zenitsu posee un talento innato para la técnica de Rayo y puede ser increíblemente poderoso cuando supera su miedo.",
+      "about": " Es un joven cazador de demonios que a menudo muestra una personalidad cobarde y asustadiza. Tiene cabello amarillo y usa un kimono con un rayado característico. Aunque inicialmente se muestra como alguien temeroso y renuente en la lucha contra los demonios, Zenitsu posee un talento innato para la técnica de Rayo y puede ser increíblemente poderoso cuando supera su miedo.",
       "status": "alive",
       "powers": [
         {
@@ -193,6 +189,94 @@
         {
           "name": "Aqua Breathing",
           "efectiveness": 9
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Gon Freecss",
+      "serie": "Hunter X Hunter",
+      "image": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/06/Gon-Freecss-e1617190272625.jpg",
+      "about": "Es un niño de cabello verde y ojos oscuros, con una personalidad alegre, optimista y decidida. Gon creció en la Isla de la Ballena, lejos de la civilización, y siempre anheló convertirse en un Cazador para encontrar a su padre, Ging Freecss, un legendario Cazador ausente en su vida.",
+      "status": "alive",
+      "powers": [
+        {
+          "name": "Olfato agudo",
+          "efectiveness": 8
+        }, 
+        {
+          "name": "Jajanken",
+          "efectiveness": 8
+        },
+        {
+          "name": "Futuro",
+          "efectiveness": 10
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Killua Zoldyck ",
+      "serie": "Hunter X Hunter",
+      "image": "https://www.tiempoderecreo.com/wp-content/uploads/2023/03/Hunter-x-Hunter-%C2%BFKillua-muere-%C2%A1Esto-es-lo-que-sucedio.jpg",
+      "about": "Es un joven con cabello plateado, ojos azules y una apariencia tranquila. Proviene de la infame y letal familia Zoldyck, conocida por ser asesinos y mercenarios. Killua, sin embargo, decide escapar de esa vida y busca ser un Cazador, al igual que su amigo Gon Freecss.",
+      "status": "alive",
+      "powers": [
+        {
+          "name": "Yoyo Rayo",
+          "efectiveness": 8
+        }, 
+        {
+          "name": "Velocidad Rayo",
+          "efectiveness": 8
+        },
+        {
+          "name": "Futuro",
+          "efectiveness": 10
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Hisoka Morow",
+      "serie": "Hunter X Hunter",
+      "image": "https://images4.alphacoders.com/637/thumb-1920-637345.jpg",
+      "about": "Tiene una apariencia distintiva, con cabello rojo, maquillaje facial y un atuendo extravagante. Hisoka es un personaje complejo y misterioso que se destaca por su personalidad sadomasoquista y su obsesión por luchar contra oponentes fuertes, es un usuario de Nen y utiliza su capacidad para manipular su aura y habilidades en el combate.",
+      "status": "unknown",
+      "powers": [
+        {
+          "name": "Goma Bungee",
+          "efectiveness": 8
+        }, 
+        {
+          "name": "Percepción prenatural",
+          "efectiveness": 6
+        },
+        {
+          "name": "Transmutación",
+          "efectiveness": 7
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Meruem",
+      "serie": "Hunter X Hunter",
+      "image": "https://static.wikia.nocookie.net/hunterxhunter/images/0/06/122_-_Meruem_wants_to_talk.png/revision/latest?cb=20140327043129",
+      "about": " Es el Rey de las Hormigas Quimera, una especie de seres antropoides con características de diversos animales y humanos. Posee habilidades físicas y de Nen extraordinarias, lo que lo convierte en uno de los seres más poderosos en el mundo de Hunter x Hunter.",
+      "status": "unknown",
+      "powers": [
+        {
+          "name": "Metamorfosis",
+          "efectiveness": 9
+        }, 
+        {
+          "name": " Ráfaga de Ira",
+          "efectiveness": 9
+        },
+        {
+          "name": "Fotón",
+          "efectiveness": 10
         }
       ]
     }
