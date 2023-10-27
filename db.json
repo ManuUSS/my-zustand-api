@@ -84,6 +84,24 @@
     },
     {
       "id": 4,
+      "name": "Yuji Itadori",
+      "serie": "Jujutsu Kaisen",
+      "image": "https://www.mundodeportivo.com/alfabeta/hero/2021/05/Yuji-Itadori1.jpg?width=1200&aspect_ratio=16:9",
+      "about": "El protagonista de Jujutsu Kaisen, Su vida cambia drásticamente cuando se encuentra con un objeto maldito extremadamente peligroso que desencadena una serie de eventos que lo llevan a involucrarse en el mundo de la hechicería y las maldiciones.",
+      "status": "dead",
+      "powers": [
+        {
+          "name": "Indetectable",
+          "efectiveness": 8
+        }, 
+        {
+          "name": "Contrato Vinculante",
+          "efectiveness": 8
+        }
+      ]
+    },
+    {
+      "id": 5,
       "name": "Tanjiro Kamado",
       "serie": "Demon Slayer",
       "image": "https://static.animecorner.me/2022/07/demon-slayer-tanjiro-kamado-2022-birthday-trailer-1024x535.jpg",
@@ -117,7 +135,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 6,
       "name": "Inosuke Hashibara",
       "serie": "Demon Slayer",
       "image": "https://images3.alphacoders.com/126/1269680.jpg",
@@ -139,11 +157,11 @@
       ]
     },
     {
-      "id": 6,
+      "id": 7,
       "name": "Zenitsu Agatsuma",
       "serie": "Demon Slayer",
       "image": "https://www.egames.news/__export/1643571844615/sites/debate/img/2022/01/30/cuxl_es_el_verdadero_poder_de_zenitsu_agatsuma_en_demon_slayer.jpg_554688468.jpg",
-      "about": " Es un joven cazador de demonios que a menudo muestra una personalidad cobarde y asustadiza. Tiene cabello amarillo y usa un kimono con un rayado característico. Aunque inicialmente se muestra como alguien temeroso y renuente en la lucha contra los demonios, Zenitsu posee un talento innato para la técnica de Rayo y puede ser increíblemente poderoso cuando supera su miedo.",
+      "about": "Es un joven cazador de demonios que a menudo muestra una personalidad cobarde y asustadiza. Tiene cabello amarillo y usa un kimono con un rayado característico. Aunque inicialmente se muestra como alguien temeroso y renuente en la lucha contra los demonios, Zenitsu posee un talento innato para la técnica de Rayo y puede ser increíblemente poderoso cuando supera su miedo.",
       "status": "alive",
       "powers": [
         {
@@ -157,6 +175,24 @@
         {
           "name": "Combate incosciente",
           "efectiveness": 8
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Giyu Tomioka",
+      "serie": "Demon Slayer",
+      "image": "https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2023/06/kimetsu-no-yaiba-giyu-tomioka-haori.jpg",
+      "about": "Giyu tiene un cabello azul oscuro y siempre lleva una máscara en su rostro. Es conocido por ser uno de los Cazadores de Demonios Hashira, lo que lo convierte en uno de los luchadores más poderosos en la organización.",
+      "status": "alive",
+      "powers": [
+        {
+          "name": "Velocidad extrema",
+          "efectiveness": 7
+        }, 
+        {
+          "name": "Aqua Breathing",
+          "efectiveness": 9
         }
       ]
     }
