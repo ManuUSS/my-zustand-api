@@ -11,7 +11,7 @@
         {
           "name": "Infinito",
           "efectiveness": 10
-        }, 
+        },
         {
           "name": "Rotación Avante: Azul",
           "efectiveness": 7
@@ -45,7 +45,7 @@
         {
           "name": "Encarnación de Tamamo no Mae",
           "efectiveness": 8
-        }, 
+        },
         {
           "name": "Manipulación Extrema de Maldiciones: Tornado",
           "efectiveness": 7
@@ -75,7 +75,7 @@
         {
           "name": "Indetectable",
           "efectiveness": 8
-        }, 
+        },
         {
           "name": "Contrato Vinculante",
           "efectiveness": 8
@@ -107,7 +107,7 @@
         {
           "name": "Olfato Mejorado",
           "efectiveness": 8
-        }, 
+        },
         {
           "name": "Marca de Cazador de Demonios",
           "efectiveness": 8
@@ -141,7 +141,7 @@
         {
           "name": "Tacto Mejorado",
           "efectiveness": 9
-        }, 
+        },
         {
           "name": "Aliento de la bestia",
           "efectiveness": 8
@@ -163,7 +163,7 @@
         {
           "name": "Audición aguda",
           "efectiveness": 8
-        }, 
+        },
         {
           "name": "Velocidad de los dioses",
           "efectiveness": 7
@@ -185,7 +185,7 @@
         {
           "name": "Velocidad extrema",
           "efectiveness": 7
-        }, 
+        },
         {
           "name": "Aqua Breathing",
           "efectiveness": 9
@@ -203,7 +203,7 @@
         {
           "name": "Olfato agudo",
           "efectiveness": 8
-        }, 
+        },
         {
           "name": "Jajanken",
           "efectiveness": 8
@@ -225,7 +225,7 @@
         {
           "name": "Yoyo Rayo",
           "efectiveness": 8
-        }, 
+        },
         {
           "name": "Velocidad Rayo",
           "efectiveness": 8
@@ -247,7 +247,7 @@
         {
           "name": "Goma Bungee",
           "efectiveness": 8
-        }, 
+        },
         {
           "name": "Percepción prenatural",
           "efectiveness": 6
@@ -269,7 +269,7 @@
         {
           "name": "Metamorfosis",
           "efectiveness": 9
-        }, 
+        },
         {
           "name": " Ráfaga de Ira",
           "efectiveness": 9
@@ -279,6 +279,70 @@
           "efectiveness": 10
         }
       ]
+    },
+    {
+      "name": "Akaza",
+      "serie": "Demon Slayer",
+      "about": "Su atuendo era bastante simple; vestía un haori corto, sin mangas, de color rosa púrpura oscuro que contaba con un patrón cuadrado en la espalda. Solía llevar su haori abierto, dejando al descubierto su pecho. Debajo de esto, lucía un par de pantalones blancos holgados que se enrollaba justo debajo de la rodilla con un cinturón de cuerda azul para asegurarlos en su cintura.",
+      "image": "https://www.mundodeportivo.com/alfabeta/hero/2021/12/Akaza_coaxing_Kyojuro_into_becoming_a_demon.jpg?width=1200&aspect_ratio=16:9",
+      "status": "dead",
+      "id": 13
+    },
+    {
+      "name": "Kyojuro Rengoku",
+      "serie": "Demon Slayer",
+      "about": "Kyojuro era un hombre joven de apenas 20 años de edad, con la piel de tono crema, de cabello amarillo brillante con mechones rojos, cejas negras bifurcadas y ojos dorados.\nSu atuendo consistía en el uniforme regular de Cazador de Demonios junto con una capa que tiene el patrón de degradado blanco-amarillo y crestas rojas en forma de llamas en las puntas.",
+      "image": "https://www.mundodeportivo.com/alfabeta/hero/2021/04/Kyojuro-Rengoku.jpeg?width=768&aspect_ratio=16:9&format=nowebp",
+      "status": "dead",
+      "id": 14
+    },
+    {
+      "name": "Chrollo Lucilfer",
+      "serie": "Hunter X Hunter",
+      "about": "Es el líder de la Brigada Fantasma, una pandilla infame de ladrones con recompensas de clase A. Su fuerza física ocupa el séptimo lugar en el grupo.",
+      "image": "https://staticg.sportskeeda.com/editor/2023/06/5dd14-16872468632965-1920.jpg",
+      "status": "unknown",
+      "id": 15
+    },
+    {
+      "name": "Biscuit Krueger",
+      "serie": "Hunter X Hunter",
+      "about": "A Biscuit le gusta actuar y parecer joven la mayor parte del tiempo. Se ve usando un vestido sin mangas con encajes, volantes y cintas, y un bloomer con una mantilla y sobre él lleva falda, junto con guantes y zapatos de cuero lisos. Ella siempre tiene el pelo recogido en dos coletas y ha cambiado su estilo 3 veces a lo largo de la historia.\nEn su forma original, es alta y extremadamente musculosa. Dice que escoge su forma de niña para que el enemigo la subestime, pero la verdadera razón es porque odia su forma original.",
+      "image": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/02/biscuit-krueger-trivia-facts-hunter-x-hunter.png",
+      "status": "unknown",
+      "id": 16
+    },
+    {
+      "name": "Don Freecss",
+      "serie": "Hunter X Hunter",
+      "about": "Hace 300 años, Don viajó al Continente Oscuro. Escribió un diario de viaje que consiste en dos volúmenes: Este y Oeste. Mientras el Este está en manos del V6, el Oeste no se ha encontrado. Esto, según Ging, es porque Don sigue vivo y está trabajando en terminarlo.",
+      "image": "https://i.pinimg.com/originals/57/7a/3f/577a3f3514a855195f854d3100de123f.png",
+      "status": "alive",
+      "id": 17
+    },
+    {
+      "name": "Kento Nanami",
+      "serie": "Jujutsu Kaisen",
+      "about": "Nanami fue un hombre de cuerpo bien proporcionado y bastante alto, llegando a medir 184 centímetros. En el manga, poseía dos distintos tipos de color de cabello, uno castaño claro y otro rubio, peinado con una raya al costado; en el anime, su cabello se mantiene rubio. Solía tener cejas delgadas y ojos pequeños.",
+      "image": "https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2023/09/jujutsu-kaisen-nanami-kento-quien-es.jpg",
+      "status": "dead",
+      "id": 18
+    },
+    {
+      "name": "Hanami",
+      "serie": "Jujutsu Kaisen",
+      "about": "Alrededor de todo su cuerpo tenía una serie de líneas negras. Su cabeza tiene forma de casco que cubre todo menos su boca, en vez de ojos tenía ramas y dos líneas negras que recorrían su rostro en zigzag",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2021/02/hanami.jpg",
+      "status": "dead",
+      "id": 19
+    },
+    {
+      "name": "Yūta Okkotsu",
+      "serie": "Jujutsu Kaisen",
+      "about": "uta es un adolescente delgado y de buena estatura. Durante Tokyo Metropolitan Curse Technical School, solía llevar su cabello negro despeinado y gran parte de éste tapaba parte de su frente. A partir de Jujutsu Kaisen, lleva su cabello arreglado y separado por la mitad, parte de éste cae hacía la izquierda tapando parte de su cara.",
+      "image": "https://www.mundodeportivo.com/alfabeta/hero/2022/11/reina-maldiciones-Yuta-Okkotsu.jpg?width=1200",
+      "status": "alive",
+      "id": 20
     }
   ]
 }
