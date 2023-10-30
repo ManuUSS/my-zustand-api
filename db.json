@@ -343,6 +343,54 @@
       "image": "https://www.mundodeportivo.com/alfabeta/hero/2022/11/reina-maldiciones-Yuta-Okkotsu.jpg?width=1200",
       "status": "alive",
       "id": 20
+    },
+    {
+      "name": "Yorīchi Tsugikuni",
+      "serie": "Demon Slayer",
+      "about": "Yoriichi era una persona tranquila y respetuosa, con una expresión solemne y reservada en todo momento, rara vez mostraba estallidos de emoción. En general, Yoriichi tenía una disposición baja y serena a juego, evidente cuando mataba demonios sin cambiar de expresión o cuando Muzan fue tomado por sorpresa por su inmensa habilidad porque parecía modesto.",
+      "image": "https://e0.pxfuel.com/wallpapers/498/856/desktop-wallpaper-demon-slayer-10-interesting-facts-about-yoriichi-yorichii-demon-slayer.jpg",
+      "status": "dead",
+      "id": 21
+    },
+    {
+      "name": "Kokushibo",
+      "serie": "Demon Slayer",
+      "about": "Kokushibo fue un Demonio que mantuvo sus rasgos humanos a pesar de haber devorado a infinidades de personas durante 400 años. Mantuvo una serie de características bastante inusuales: fue un hombre de alta estatura, tono de piel pálido y de complexión atlética y musculosa; su cabello fue largo y de color negro con bordes en tono burdéos",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1483325801511490431/756CF0D1B3EEFFCEB084165122808BAF6AA429CC/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "status": "unknown",
+      "id": 22
+    },
+    {
+      "name": "Kanae Kochō",
+      "serie": "Demon Slayer",
+      "about": "Kanae fue una joven delgada y de estatura promedio que tenía cierto parecido a su hermana Kanao[3]. Tenía el cabello negro, solía llevarlo suelto y éste se extendía a lo largo de su espalda",
+      "image": "https://www.geekmi.news/__export/1684596869948/sites/debate/img/2023/05/20/kanae-kocho.jpg_554688468.jpg",
+      "status": "dead",
+      "id": 23
+    },
+    {
+      "name": "Megumi Fushiguro",
+      "serie": "Jujutsu Kaisen",
+      "about": "Megumi es un joven alto, llegando a medir 175 centímetros. Su cabello es oscuro, y suele llevarlo arreglado y puntiagudo cuando se encuentra en clases o en una misión; lleva su cabello desarreglado, cuando descansa",
+      "image": "https://i0.wp.com/senpai.com.mx/wp-content/uploads/2021/10/Jujutsu-Kaisen-Fanart-imagina-a-Megumi-Fushiguro-como-personaje-de-Naruto-Kimetsu-no-Yaiba-y-mas-series.jpg?fit=1280%2C720&ssl=1",
+      "status": "unknown",
+      "id": 24
+    },
+    {
+      "name": "Ryomen Sukuna",
+      "serie": "Jujutsu Kaisen",
+      "about": "De acuerdo a la leyenda, Sukuna fue un demonio con apariencia humana que existió durante la era dorada del Jujutsu hace unos 1000 años, los hechiceros al perfeccionar sus habilidades pudieron derrotarlo. Después de su muerte, no fueron capaces de destruir su cuerpo y traspasó generaciones en forma de objetos malditos, representados en un total de 20 dedos",
+      "image": "https://i0.wp.com/senpai.com.mx/wp-content/uploads/2021/12/Checa-esta-fenomenal-version-realista-de-Sukuna-en-fanart-de-Jujutsu-Kaisen.jpg?fit=1280%2C720&ssl=1",
+      "status": "alive",
+      "id": 25
+    },
+    {
+      "name": "Panda",
+      "serie": "Jujutsu Kaisen",
+      "about": "Panda es una persona amable, afectuosa, empática y sabia. Suele ser un travieso a veces y bromear mucho. No se considera humano además de que nunca a tenido celos de estos y hasta por la capacidad sentimental que los humanos poseen llega a sentir repulsión, además de que no los llega a entender del todo",
+      "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/04/Jujutsu-Kaisen-Panda.jpg",
+      "status": "alive",
+      "id": 26
     }
   ]
 }

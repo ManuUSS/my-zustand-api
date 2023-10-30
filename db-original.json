@@ -11,7 +11,7 @@
         {
           "name": "Infinito",
           "efectiveness": 10
-        }, 
+        },
         {
           "name": "Rotación Avante: Azul",
           "efectiveness": 7
@@ -45,7 +45,7 @@
         {
           "name": "Encarnación de Tamamo no Mae",
           "efectiveness": 8
-        }, 
+        },
         {
           "name": "Manipulación Extrema de Maldiciones: Tornado",
           "efectiveness": 7
@@ -75,7 +75,7 @@
         {
           "name": "Indetectable",
           "efectiveness": 8
-        }, 
+        },
         {
           "name": "Contrato Vinculante",
           "efectiveness": 8
@@ -107,7 +107,7 @@
         {
           "name": "Olfato Mejorado",
           "efectiveness": 8
-        }, 
+        },
         {
           "name": "Marca de Cazador de Demonios",
           "efectiveness": 8
@@ -141,7 +141,7 @@
         {
           "name": "Tacto Mejorado",
           "efectiveness": 9
-        }, 
+        },
         {
           "name": "Aliento de la bestia",
           "efectiveness": 8
@@ -163,7 +163,7 @@
         {
           "name": "Audición aguda",
           "efectiveness": 8
-        }, 
+        },
         {
           "name": "Velocidad de los dioses",
           "efectiveness": 7
@@ -185,7 +185,7 @@
         {
           "name": "Velocidad extrema",
           "efectiveness": 7
-        }, 
+        },
         {
           "name": "Aqua Breathing",
           "efectiveness": 9
@@ -203,7 +203,7 @@
         {
           "name": "Olfato agudo",
           "efectiveness": 8
-        }, 
+        },
         {
           "name": "Jajanken",
           "efectiveness": 8
@@ -225,7 +225,7 @@
         {
           "name": "Yoyo Rayo",
           "efectiveness": 8
-        }, 
+        },
         {
           "name": "Velocidad Rayo",
           "efectiveness": 8
@@ -247,7 +247,7 @@
         {
           "name": "Goma Bungee",
           "efectiveness": 8
-        }, 
+        },
         {
           "name": "Percepción prenatural",
           "efectiveness": 6
@@ -263,13 +263,13 @@
       "name": "Meruem",
       "serie": "Hunter X Hunter",
       "image": "https://images7.alphacoders.com/116/1163395.jpg",
-      "about": " Es el Rey de las Hormigas Quimera, una especie de seres antropoides con características de diversos animales y humanos. Posee habilidades físicas y de Nen extraordinarias, lo que lo convierte en uno de los seres más poderosos en el mundo de Hunter x Hunter.",
-      "status": "unknown",
+      "about": "Es el Rey de las Hormigas Quimera, una especie de seres antropoides con características de diversos animales y humanos. Posee habilidades físicas y de Nen extraordinarias, lo que lo convierte en uno de los seres más poderosos en el mundo de Hunter x Hunter.",
+      "status": "dead",
       "powers": [
         {
           "name": "Metamorfosis",
           "efectiveness": 9
-        }, 
+        },
         {
           "name": " Ráfaga de Ira",
           "efectiveness": 9
@@ -279,6 +279,118 @@
           "efectiveness": 10
         }
       ]
+    },
+    {
+      "name": "Akaza",
+      "serie": "Demon Slayer",
+      "about": "Su atuendo era bastante simple; vestía un haori corto, sin mangas, de color rosa púrpura oscuro que contaba con un patrón cuadrado en la espalda. Solía llevar su haori abierto, dejando al descubierto su pecho. Debajo de esto, lucía un par de pantalones blancos holgados que se enrollaba justo debajo de la rodilla con un cinturón de cuerda azul para asegurarlos en su cintura.",
+      "image": "https://www.mundodeportivo.com/alfabeta/hero/2021/12/Akaza_coaxing_Kyojuro_into_becoming_a_demon.jpg?width=1200&aspect_ratio=16:9",
+      "status": "dead",
+      "id": 13
+    },
+    {
+      "name": "Kyojuro Rengoku",
+      "serie": "Demon Slayer",
+      "about": "Kyojuro era un hombre joven de apenas 20 años de edad, con la piel de tono crema, de cabello amarillo brillante con mechones rojos, cejas negras bifurcadas y ojos dorados.\nSu atuendo consistía en el uniforme regular de Cazador de Demonios junto con una capa que tiene el patrón de degradado blanco-amarillo y crestas rojas en forma de llamas en las puntas.",
+      "image": "https://www.mundodeportivo.com/alfabeta/hero/2021/04/Kyojuro-Rengoku.jpeg?width=768&aspect_ratio=16:9&format=nowebp",
+      "status": "dead",
+      "id": 14
+    },
+    {
+      "name": "Chrollo Lucilfer",
+      "serie": "Hunter X Hunter",
+      "about": "Es el líder de la Brigada Fantasma, una pandilla infame de ladrones con recompensas de clase A. Su fuerza física ocupa el séptimo lugar en el grupo.",
+      "image": "https://staticg.sportskeeda.com/editor/2023/06/5dd14-16872468632965-1920.jpg",
+      "status": "unknown",
+      "id": 15
+    },
+    {
+      "name": "Biscuit Krueger",
+      "serie": "Hunter X Hunter",
+      "about": "A Biscuit le gusta actuar y parecer joven la mayor parte del tiempo. Se ve usando un vestido sin mangas con encajes, volantes y cintas, y un bloomer con una mantilla y sobre él lleva falda, junto con guantes y zapatos de cuero lisos. Ella siempre tiene el pelo recogido en dos coletas y ha cambiado su estilo 3 veces a lo largo de la historia.\nEn su forma original, es alta y extremadamente musculosa. Dice que escoge su forma de niña para que el enemigo la subestime, pero la verdadera razón es porque odia su forma original.",
+      "image": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/02/biscuit-krueger-trivia-facts-hunter-x-hunter.png",
+      "status": "unknown",
+      "id": 16
+    },
+    {
+      "name": "Don Freecss",
+      "serie": "Hunter X Hunter",
+      "about": "Hace 300 años, Don viajó al Continente Oscuro. Escribió un diario de viaje que consiste en dos volúmenes: Este y Oeste. Mientras el Este está en manos del V6, el Oeste no se ha encontrado. Esto, según Ging, es porque Don sigue vivo y está trabajando en terminarlo.",
+      "image": "https://i.pinimg.com/originals/57/7a/3f/577a3f3514a855195f854d3100de123f.png",
+      "status": "alive",
+      "id": 17
+    },
+    {
+      "name": "Kento Nanami",
+      "serie": "Jujutsu Kaisen",
+      "about": "Nanami fue un hombre de cuerpo bien proporcionado y bastante alto, llegando a medir 184 centímetros. En el manga, poseía dos distintos tipos de color de cabello, uno castaño claro y otro rubio, peinado con una raya al costado; en el anime, su cabello se mantiene rubio. Solía tener cejas delgadas y ojos pequeños.",
+      "image": "https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2023/09/jujutsu-kaisen-nanami-kento-quien-es.jpg",
+      "status": "dead",
+      "id": 18
+    },
+    {
+      "name": "Hanami",
+      "serie": "Jujutsu Kaisen",
+      "about": "Alrededor de todo su cuerpo tenía una serie de líneas negras. Su cabeza tiene forma de casco que cubre todo menos su boca, en vez de ojos tenía ramas y dos líneas negras que recorrían su rostro en zigzag",
+      "image": "https://criticalhits.com.br/wp-content/uploads/2021/02/hanami.jpg",
+      "status": "dead",
+      "id": 19
+    },
+    {
+      "name": "Yūta Okkotsu",
+      "serie": "Jujutsu Kaisen",
+      "about": "uta es un adolescente delgado y de buena estatura. Durante Tokyo Metropolitan Curse Technical School, solía llevar su cabello negro despeinado y gran parte de éste tapaba parte de su frente. A partir de Jujutsu Kaisen, lleva su cabello arreglado y separado por la mitad, parte de éste cae hacía la izquierda tapando parte de su cara.",
+      "image": "https://www.mundodeportivo.com/alfabeta/hero/2022/11/reina-maldiciones-Yuta-Okkotsu.jpg?width=1200",
+      "status": "alive",
+      "id": 20
+    },
+    {
+      "name": "Yorīchi Tsugikuni",
+      "serie": "Demon Slayer",
+      "about": "Yoriichi era una persona tranquila y respetuosa, con una expresión solemne y reservada en todo momento, rara vez mostraba estallidos de emoción. En general, Yoriichi tenía una disposición baja y serena a juego, evidente cuando mataba demonios sin cambiar de expresión o cuando Muzan fue tomado por sorpresa por su inmensa habilidad porque parecía modesto.",
+      "image": "https://e0.pxfuel.com/wallpapers/498/856/desktop-wallpaper-demon-slayer-10-interesting-facts-about-yoriichi-yorichii-demon-slayer.jpg",
+      "status": "dead",
+      "id": 21
+    },
+    {
+      "name": "Kokushibo",
+      "serie": "Demon Slayer",
+      "about": "Kokushibo fue un Demonio que mantuvo sus rasgos humanos a pesar de haber devorado a infinidades de personas durante 400 años. Mantuvo una serie de características bastante inusuales: fue un hombre de alta estatura, tono de piel pálido y de complexión atlética y musculosa; su cabello fue largo y de color negro con bordes en tono burdéos",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1483325801511490431/756CF0D1B3EEFFCEB084165122808BAF6AA429CC/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "status": "unknown",
+      "id": 22
+    },
+    {
+      "name": "Kanae Kochō",
+      "serie": "Demon Slayer",
+      "about": "Kanae fue una joven delgada y de estatura promedio que tenía cierto parecido a su hermana Kanao[3]. Tenía el cabello negro, solía llevarlo suelto y éste se extendía a lo largo de su espalda",
+      "image": "https://www.geekmi.news/__export/1684596869948/sites/debate/img/2023/05/20/kanae-kocho.jpg_554688468.jpg",
+      "status": "dead",
+      "id": 23
+    },
+    {
+      "name": "Megumi Fushiguro",
+      "serie": "Jujutsu Kaisen",
+      "about": "Megumi es un joven alto, llegando a medir 175 centímetros. Su cabello es oscuro, y suele llevarlo arreglado y puntiagudo cuando se encuentra en clases o en una misión; lleva su cabello desarreglado, cuando descansa",
+      "image": "https://i0.wp.com/senpai.com.mx/wp-content/uploads/2021/10/Jujutsu-Kaisen-Fanart-imagina-a-Megumi-Fushiguro-como-personaje-de-Naruto-Kimetsu-no-Yaiba-y-mas-series.jpg?fit=1280%2C720&ssl=1",
+      "status": "unknown",
+      "id": 24
+    },
+    {
+      "name": "Ryomen Sukuna",
+      "serie": "Jujutsu Kaisen",
+      "about": "De acuerdo a la leyenda, Sukuna fue un demonio con apariencia humana que existió durante la era dorada del Jujutsu hace unos 1000 años, los hechiceros al perfeccionar sus habilidades pudieron derrotarlo. Después de su muerte, no fueron capaces de destruir su cuerpo y traspasó generaciones en forma de objetos malditos, representados en un total de 20 dedos",
+      "image": "https://i0.wp.com/senpai.com.mx/wp-content/uploads/2021/12/Checa-esta-fenomenal-version-realista-de-Sukuna-en-fanart-de-Jujutsu-Kaisen.jpg?fit=1280%2C720&ssl=1",
+      "status": "alive",
+      "id": 25
+    },
+    {
+      "name": "Panda",
+      "serie": "Jujutsu Kaisen",
+      "about": "Panda es una persona amable, afectuosa, empática y sabia. Suele ser un travieso a veces y bromear mucho. No se considera humano además de que nunca a tenido celos de estos y hasta por la capacidad sentimental que los humanos poseen llega a sentir repulsión, además de que no los llega a entender del todo",
+      "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/04/Jujutsu-Kaisen-Panda.jpg",
+      "status": "alive",
+      "id": 26
     }
   ]
 }
