@@ -32,6 +32,14 @@
           "name": "Vacío inconmesurable",
           "efectiveness": 10
         }
+      ],
+      "cover_photos": [
+        "https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2023/07/jujutsu-kaisen-husbando-gojo-satoru-cosplay.jpg",
+        "https://i.pinimg.com/originals/f7/f3/8e/f7f38ee002f18b7d3a1f87fca020c56c.jpg",
+        "https://www.hindustantimes.com/ht-img/img/2023/07/28/1600x900/Screenshot_2023-07-27_234919_1690524990508_1690525009794.png",
+        "https://sm.mashable.com/mashable_me/photo/default/new-project_np8g.jpg",
+        "https://staticg.sportskeeda.com/editor/2023/03/16a72-16795654566209-1920.jpg",
+        "https://i0.wp.com/www.spielanime.com/wp-content/uploads/2023/07/Jujutsu-Kaisen-Season-2_-Gojo-and-Getos-Relationship-Explained.jpg?resize=1200%2C675&ssl=1"
       ]
     },
     {
@@ -62,6 +70,14 @@
           "name": "Kuchisake-Onna",
           "efectiveness": 6
         }
+      ],
+      "cover_photos": [
+        "https://butwhytho.net/wp-content/uploads/2023/09/Suguru-Geto-But-Why-Tho-1.jpg",
+        "https://staticg.sportskeeda.com/editor/2023/03/7d02c-16797279955055-1920.jpg",
+        "https://laverdadnoticias.com/__export/1690425072212/sites/laverdad/img/2023/07/26/satoru_gojo_y_suguru_geto_de_jujutsu_kaisen_se_vuelven_unas_adorables_nendoroids.jpg_1683579805.jpg",
+        "https://w.forfun.com/fetch/36/36e2cb7674b2778d6ce05fde29c7b901.jpeg",
+        "https://w.forfun.com/fetch/ff/fffa23213c0077a88dd3080c63efa958.jpeg",
+        "https://pbs.twimg.com/media/E1rGNN9XIAIOPMh.jpg"
       ]
     },
     {
@@ -80,6 +96,14 @@
           "name": "Contrato Vinculante",
           "efectiveness": 8
         }
+      ],
+      "cover_photos": [
+        "https://butwhytho.net/wp-content/uploads/2023/09/Suguru-Geto-But-Why-Tho-1.jpg",
+        "https://staticg.sportskeeda.com/editor/2023/03/7d02c-16797279955055-1920.jpg",
+        "https://laverdadnoticias.com/__export/1690425072212/sites/laverdad/img/2023/07/26/satoru_gojo_y_suguru_geto_de_jujutsu_kaisen_se_vuelven_unas_adorables_nendoroids.jpg_1683579805.jpg",
+        "https://w.forfun.com/fetch/36/36e2cb7674b2778d6ce05fde29c7b901.jpeg",
+        "https://w.forfun.com/fetch/ff/fffa23213c0077a88dd3080c63efa958.jpeg",
+        "https://pbs.twimg.com/media/E1rGNN9XIAIOPMh.jpg"
       ]
     },
     {
@@ -391,6 +415,242 @@
       "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/04/Jujutsu-Kaisen-Panda.jpg",
       "status": "alive",
       "id": 26
+    },
+    {
+      "name": "Toge Inumaki",
+      "serie": "Jujutsu Kaisen",
+      "about": "Toge es un joven delgado y de baja estatura. En el manga, su cabello y sus ojos son de un color marrón claro, mientras que en el anime, su cabello es cambiado a uno color blanco y ojos color morado. Posee cejas finas y en ambos costados de su boca lleva dos círculos con puntos y uno en la lengua representando el sello maldito del Clan Inumaki. Tras los eventos ocurridos durante el Arco de El Incidente de Shibuya, perdió parte de su brazo izquierdo, al verse atrapado en la expansión territorial de Sukuna.",
+      "image": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/01/jujutsu-kaisen-why-is-toge-inumaki-so-popular.jpg",
+      "status": "alive",
+      "id": 27
+    },
+    {
+      "name": "Muzan Kibutsuji",
+      "serie": "Demon Slayer",
+      "about": "Es el antagonista principal de la serie, fue el primer y más fuerte demonio que existía. Usó su sangre para engendrar a los otros demonios. Fue capaz de manipular su estructura celular y con frecuencia se disfrazó de diferentes humanos de varias edades y géneros. trasplantaba sus células dentro de los demonios para destruirlos si alguna vez lo mencionaban por su nombre. Podía devorar las células de otros para asimilar sus habilidades y sus recuerdos también. Muzan era originalmente un joven enfermizo del período Heian cuya transición a un demonio fue el resultado de un tratamiento experimental para prolongar su vida. Mató a su médico antes de darse cuenta de que funcionaba.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzcyZjYxYzktMWZhMi00ZGFkLTllMTEtNjJjZjU4ODdlYzRmXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+      "status": "dead",
+      "id": 28
+    },
+    {
+      "name": "Hantengu",
+      "serie": "Demon Slayer",
+      "about": "Debido a sus habilidades poseía un total de siete apariencias, entre ellas, la apariencia principal se caracterizaba por ser un hombre de estatura baja y pequeño con un cuerpo delgado y esquelético. La parte superior de su cabeza estaba calva y poseía dos cuernos, entre medio de éstos, sobresalía un gran bulto. Mientras que, en la parte inferior, su cabello se extendía un poco más por debajo de sus hombros",
+      "image": "https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2023/05/kimetsu-no-yaiba-hantengu-pequeno.jpg",
+      "status": "dead",
+      "id": 29
+    },
+    {
+      "name": "Muichiro Tokito",
+      "serie": "Demon Slayer",
+      "about": "Muichiro es un niño de baja estatura llegando a medir 160cm, de complexión musculosa y tez clara. Tenía el cabello largo y lacio de color negro con una degradación a color verde menta a medida que se acerca a su cintura, generalmente solía llevarlo suelto y algunos mechones sobresalían ligeramente de cada lado de la cabeza, un conjunto de cabello marginalmente más corto dejado para enmarcar su rostro y un flequillo rebelde sobre su frente.",
+      "image": "https://www.fayerwayer.com/resizer/M-CHw2yVJ1QFf4anEf5Ta2sgwdw=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/HYMYK7RLHVFKBF6TFELTTM5QPY.webp",
+      "status": "alive",
+      "id": 30
+    },
+    {
+      "name": "Kioto Daimain",
+      "serie": "Demon Slayer",
+      "about": "No tengo idea de que escribir para la descripcion de este personaje, pero sin embargo pienso que seria probablemente el personaje mas fuerte creado alguna vez por cualquier mangaka.\nEs un poderoso demonio que ha vivido oculto por mas de 1300 años, siendo superior a Muzan, sin embargo, este cuenta con respeto hacia los seres humanos, por  lo que no se conoce en detalle todo su potencial.",
+      "image": "https://areajugones.sport.es/wp-content/uploads/2021/12/kimetsu-no-yaiba-1-1080x609.jpg",
+      "status": "unknown",
+      "powers": [
+        {
+          "name": "Invencible",
+          "efectiveness": "10"
+        }
+      ],
+      "id": 31
+    },
+    {
+      "name": "Arturetz Kiotozta",
+      "serie": "Jujutsu Kaisen",
+      "about": "Es el personaje mas poderoso conocido hasta la fecha, fue compañero de Gojo y Geto en el cole, pero luego de una misión en Monteverde, Costa Rica ha permanecido en fiesta durante los últimos 15 años.\nCuenta con una resistencia sobrenatural al alcohol, posee higado de hierro, además de un físico y fuerza descomunal.",
+      "image": "https://i.pinimg.com/originals/b2/69/1d/b2691db0f239a7d2fa0fcc2ab31966f6.jpg",
+      "status": "alive",
+      "powers": [
+        {
+          "name": "Whisky",
+          "efectiveness": "10"
+        },
+        {
+          "name": "Cacique",
+          "efectiveness": 0
+        },
+        {
+          "name": "Aliento a alcohol",
+          "efectiveness": 0
+        },
+        {
+          "name": "Fuerza inhumana",
+          "efectiveness": "9"
+        }
+      ],
+      "id": 32
+    },
+    {
+      "name": "Palm Siberia",
+      "serie": "Hunter X Hunter",
+      "about": "La mayor parte del tiempo ella tiene el pelo de color negro, largo y desaliñado y demasiado maquillaje, por no hablar de un aura aterradora causada por el estrés. Por lo general lleva una blusa rosada luz y se ve que lleva un cuchillo. (En su cita con Gon cambio su aspecto y se ve impresionante). Podemos ver su aspecto distinto cuando actúa como infiltrada en el castillo de Meruem usando lentes de contactos azules y su cabello corto en tono café",
+      "image": "https://pbs.twimg.com/media/EDoIrlxW4AAOpZc.jpg",
+      "status": "alive",
+      "powers": [
+        {
+          "name": "Visiones",
+          "efectiveness": "10"
+        },
+        {
+          "name": "Cuadril",
+          "efectiveness": "10"
+        },
+        {
+          "name": "Takataka",
+          "efectiveness": "10"
+        },
+        {
+          "name": "Mustand Pyt",
+          "efectiveness": "8"
+        },
+        {
+          "name": "Lobos Amora",
+          "efectiveness": "10"
+        }
+      ],
+      "id": 33
+    },
+    {
+      "name": "Arturo Mora",
+      "serie": "Hunter X Hunter",
+      "about": "Es el personaje más poderoso del anime conocido a la fecha,\ncuenta con una capacidad de Nen legendaria, así como una resistencia al alcohol interplanetaria.\nA pesar de sus pocas apariciones en el anime este ha demostrado ser inmune al alchol, tiene además\nuna fuerza y físico descomunal. Es el mejor amigo de Meruem y Don Freecs, ya que les vende tabaco.",
+      "image": "https://win.gg/_next/image/?url=https%3A%2F%2Fapi.win.gg%2Fwp-content%2Fuploads%2F2022%2F05%2Fbaki-hanma-1.png&w=3840&q=75",
+      "status": "alive",
+      "powers": [
+        {
+          "name": "Alcohol",
+          "efectiveness": "10"
+        },
+        {
+          "name": "Whisky",
+          "efectiveness": "10"
+        },
+        {
+          "name": "Aliento a alcohol",
+          "efectiveness": "10"
+        },
+        {
+          "name": "Fuerza",
+          "efectiveness": "10"
+        },
+        {
+          "name": "Crossfit",
+          "efectiveness": "9"
+        }
+      ],
+      "id": 34
+    },
+    {
+      "name": "Jogo",
+      "serie": "Jujutsu Kaisen",
+      "about": "Jogo solía ser de esturara baja y de piel en tonos celestes grisáceos. La mitad superior de su cabeza se asemeja a un volcán, que entra en erupción junto a sus orejas cuando se enoja. Sus orejas normalmente están tapadas con corchos. Tiene una postura jorobada similar a la de un anciano. Tenía un solo un ojo en el centro de su rostro y su dentadura negra.",
+      "image": "https://preview.redd.it/sjb18m68pvy71.png?width=640&crop=smart&auto=webp&s=feed91f9a83853c4c61298b05a6c4e7bd743bbfa",
+      "status": "dead",
+      "powers": [
+        {
+          "name": "Volcan loco",
+          "efectiveness": "5"
+        },
+        {
+          "name": "Enojarse",
+          "efectiveness": "8"
+        },
+        {
+          "name": "Pumks Plon",
+          "efectiveness": "7"
+        },
+        {
+          "name": "Gege",
+          "efectiveness": "8"
+        },
+        {
+          "name": "Deprisa",
+          "efectiveness": "8"
+        }
+      ],
+      "id": 35
+    },
+    {
+      "name": "Pedro Itmekzu",
+      "serie": "Hunter X Hunter",
+      "about": "Pedro fue un gran forjador de paletas en la era de piedra, tenías bastos conocimientos en las artes marciales y culinarias. Mantuvo una gran relación de amistad con Ging Freecs durante aproximadamente 20 años, luego este inició su viaje como cazador.",
+      "image": "https://www.mundodeportivo.com/alfabeta/hero/2023/07/curiosidades-de-naruto-uzumaki.jpg?width=768&aspect_ratio=16:9&format=nowebp",
+      "status": "alive",
+      "powers": [
+        {
+          "name": "Cocina mística",
+          "efectiveness": "10"
+        },
+        {
+          "name": "Ramen",
+          "efectiveness": "10"
+        },
+        {
+          "name": "Ladrido matador",
+          "efectiveness": "8"
+        },
+        {
+          "name": "Gua guau",
+          "efectiveness": "9"
+        }
+      ],
+      "id": 36
+    },
+    {
+      "name": "Welfin",
+      "serie": "Hunter X Hunter",
+      "about": "Welfin se muestra rudo aunque tiene menos valor de lo que aparenta. En combate duda mucho y tiende a rendirse rápidamente. Él intenta convertirse en el \"Rey de las Sombras\" o \"estar detrás de escena\". Es extremadamente paranoico, algo que se muestra por su Hatsu, y está constantemente sospechando de todo a su alrededor.",
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ea914385-70d7-476d-aa3b-37d0c449c464/deoelye-c70663b6-56f7-4a92-a96d-44e5ea1f8bdc.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VhOTE0Mzg1LTcwZDctNDc2ZC1hYTNiLTM3ZDBjNDQ5YzQ2NFwvZGVvZWx5ZS1jNzA2NjNiNi01NmY3LTRhOTItYTk2ZC00NGU1ZWExZjhiZGMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.WLJv0JJtJNfwVLYiMwDhyXw6cTZooTNlBnpWGW3CEsE",
+      "status": "dead",
+      "powers": [
+        {
+          "name": "Ladrido",
+          "efectiveness": "10"
+        },
+        {
+          "name": "Cohetes",
+          "efectiveness": "4"
+        }
+      ],
+      "id": 37
+    },
+    {
+      "name": "Luis Lobo San",
+      "serie": "Demon Slayer",
+      "about": "El más fuerte de todo el universo, cuenta con una gran cantidad de habilidades, las cuales, a día de hoy no han sido reveladas por completo. \nSe estima que su fuerza sobrepasa a Yoriichi por un montón. A pesar de no tener marca solar cuenta con un gran sable capaz de atrevesar cualquier bicho.",
+      "image": "https://api.win.gg/wp-content/uploads/2023/08/Yujiro-Hanma-Workout-1-1024x576-1.jpg",
+      "status": "alive",
+      "powers": [
+        {
+          "name": "Fuerza bruta",
+          "efectiveness": "6"
+        },
+        {
+          "name": "Inume al alcohol",
+          "efectiveness": "10"
+        },
+        {
+          "name": "Aliento a cigarro",
+          "efectiveness": "10"
+        },
+        {
+          "name": "Jager ",
+          "efectiveness": "10"
+        },
+        {
+          "name": "Buen compa",
+          "efectiveness": "9"
+        }
+      ],
+      "id": 38
     }
   ]
 }
