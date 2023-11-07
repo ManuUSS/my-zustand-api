@@ -288,7 +288,7 @@
     },
     {
       "id": 10,
-      "name": "Killua Zoldyck ",
+      "name": "Killua Zoldyck",
       "serie": "Hunter X Hunter",
       "image": "https://www.tiempoderecreo.com/wp-content/uploads/2023/03/Hunter-x-Hunter-%C2%BFKillua-muere-%C2%A1Esto-es-lo-que-sucedio.jpg",
       "about": "Es un joven con cabello plateado, ojos azules y una apariencia tranquila. Proviene de la infame y letal familia Zoldyck, conocida por ser asesinos y mercenarios. Killua, sin embargo, decide escapar de esa vida y busca ser un Cazador, al igual que su amigo Gon Freecss.",
@@ -306,6 +306,14 @@
           "name": "Futuro",
           "efectiveness": 10
         }
+      ],
+      "cover_photos": [
+        "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7f7fb319428103.562da3a4c90fd.png",
+        "https://www.gluwee.com/wp-content/uploads/2022/07/Killua-Zoldyck-758x422.jpg",
+        "https://jonahwritesdotblog.files.wordpress.com/2021/10/pjimage-2021-02-17t171727.443.jpg?w=1024",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC2qdK-S8SomvQZI8fk-XgqqYI2S8WnNrtUBxOJBXQ0-T806lSI4oGh2Z1Q-xq8qbmIwmEPSV9GPvd_E93RGMnPotOQx4bP41uaW4ROn2hSBOn4fe8anOALpXKAJIb0h5AKE0gOucd2dkrre836yYaqxPhkWr8-5AItuIN1jSIo5rer6ewk9JDvcDp/w0/killua-dan-gon-karakter-anime-hunter-x-hunter.jpg",
+        "https://pm1.aminoapps.com/6828/d64154b426ca5cd49a947161e0a954344ab9b3d5v2_hq.jpg",
+        "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/06/02/2278937903.jpeg"
       ]
     },
     {
