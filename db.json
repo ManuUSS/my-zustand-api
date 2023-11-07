@@ -117,6 +117,30 @@
         {
           "name": "Golpe directo",
           "efectiveness": 8
+        },
+        {
+          "name": "Super fuerza",
+          "efectiveness": 8
+        },
+        {
+          "name": "Super velocidad",
+          "efectiveness": 8
+        },
+        {
+          "name": "Resistencia extrema",
+          "efectiveness": 8
+        },
+        {
+          "name": "Técnicas de sukuna",
+          "efectiveness": 10
+        },
+        {
+          "name": "Relicario Maldito",
+          "efectiveness": 10
+        },
+        {
+          "name": "Capacidad de cortar",
+          "efectiveness": 10
         }
       ],
       "cover_photos": [
