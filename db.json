@@ -365,6 +365,22 @@
         {
           "name": "Fotón",
           "efectiveness": 10
+        },
+        {
+          "name": "Super velocidad",
+          "efectiveness": 10
+        },
+        {
+          "name": "Volar",
+          "efectiveness": 10
+        },
+        {
+          "name": "Radar Nen",
+          "efectiveness": 10
+        },
+        {
+          "name": "Sentido agudizado",
+          "efectiveness": 10
         }
       ],
       "cover_photos": [
