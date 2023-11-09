@@ -415,6 +415,124 @@
         "https://areajugones.sport.es/wp-content/uploads/2022/02/hunter-x-hunter-gungi-1080x609.jpg",
         "https://randomc.net/image/Hunter%20X%20Hunter/Hunter%20X%20Hunter%20-%20108%20-%20Large%2001.jpg"
       ]
+    },
+    {
+      "name": "Manuel Ulate",
+      "serie": "Jujutsu Kaisen",
+      "about": "Es un luchador de sumo extremadamente poderoso y uno de los antagonistas en la serie. Manuel es conocido por su inmenso tamaño y fuerza, así como su personalidad peculiar y carismática. Manuel es un luchador de sumo retirado que participa en el torneo subterráneo de lucha en la serie. A pesar de su gran tamaño y apariencia intimidante, es ágil y tiene habilidades de lucha excepcionales. Su lucha contra los otros luchadores en el torneo es una de las batallas más memorables de la serie, destacando su increíble poder y técnicas de combate únicas. Su personalidad es a menudo cómica y extravagante, lo que lo convierte en un personaje muy memorable en la serie. A pesar de su papel como antagonista, Biscuit Oliva ha ganado admiración de los fanáticos de Baki por su singularidad y carisma en el mundo de la lucha ficticia.",
+      "image": "https://fictionhorizon.com/wp-content/uploads/2023/05/biscuit-oliva.jpg",
+      "status": "alive",
+      "powers": [
+        {
+          "name": "Musculo",
+          "efectiveness": "10"
+        },
+        {
+          "name": "Toro",
+          "efectiveness": "10"
+        },
+        {
+          "name": "Strong ",
+          "efectiveness": "10"
+        }
+      ],
+      "cover_photos": [
+        "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4d0247f0-76f7-4616-ba75-a148b9d158e9/detwh90-5d58e4eb-864b-44ee-9cc4-3d5bb55d9da1.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRkMDI0N2YwLTc2ZjctNDYxNi1iYTc1LWExNDhiOWQxNThlOVwvZGV0d2g5MC01ZDU4ZTRlYi04NjRiLTQ0ZWUtOWNjNC0zZDViYjU1ZDlkYTEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.udmZ1JtADD9XLgjf4vZTLaAqECUOTUmLYkfDGR9mB_Y",
+        "https://win.gg/_next/image/?url=https%3A%2F%2Fapi.win.gg%2Fwp-content%2Fuploads%2F2023%2F09%2Fbiscuit-oliva-and-maria-baki.png&w=3840&q=75",
+        "https://wallpapercave.com/wp/wp10141139.png",
+        "https://i.ytimg.com/vi/hbPLUrm0Olc/maxresdefault.jpg",
+        "https://wallpapercave.com/wp/wp10141125.jpg",
+        "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4d0247f0-76f7-4616-ba75-a148b9d158e9/des2zkp-6fca7743-8cf3-4cbf-875d-e13024cb140f.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRkMDI0N2YwLTc2ZjctNDYxNi1iYTc1LWExNDhiOWQxNThlOVwvZGVzMnprcC02ZmNhNzc0My04Y2YzLTRjYmYtODc1ZC1lMTMwMjRjYjE0MGYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.GtK7eNwNmmV8HMZ7ZWmhbgYlbo-o98gWLQDRlPsKv3w"
+      ],
+      "id": 13
+    },
+    {
+      "name": "Akaza",
+      "serie": "Demon Slayer",
+      "about": "Akaza se caracteriza por su apariencia imponente y su gran fuerza. Su piel pálida, cabello largo y cuernos prominentes son rasgos típicos de los demonios en el universo de la serie. Akaza es un miembro de las Lunas Superiores, un grupo de demonios de élite que sirven al líder demonio, Kibutsuji Muzan.",
+      "image": "https://www.mundodeportivo.com/alfabeta/hero/2021/12/Akaza_coaxing_Kyojuro_into_becoming_a_demon.jpg?width=1200&aspect_ratio=16:9",
+      "status": "dead",
+      "powers": [
+        {
+          "name": "Fuerza sobrenatural",
+          "efectiveness": "10"
+        },
+        {
+          "name": "Velocidad asombrosa",
+          "efectiveness": "10"
+        },
+        {
+          "name": "Regeneración",
+          "efectiveness": "10"
+        },
+        {
+          "name": "Técnica de Rendición Total:",
+          "efectiveness": "10"
+        },
+        {
+          "name": "Lucha con garras",
+          "efectiveness": "3"
+        },
+        {
+          "name": "Sentido agudo:",
+          "efectiveness": "10"
+        },
+        {
+          "name": "Respiración de Agua",
+          "efectiveness": "7"
+        },
+        {
+          "name": "Transformación",
+          "efectiveness": "7"
+        }
+      ],
+      "cover_photos": [
+        "https://www.mundodeportivo.com/alfabeta/hero/2022/12/Kimetsu-No-Yaiba-da-a-conocer-la-verdad-sobre-Akaza-y-te-va-a-sorprender.jpg?width=1200",
+        "https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2022/03/akaza-kimetsu-no-yaiba-cosplay-body-paint.jpg",
+        "https://cdn.alfabetajuega.com/alfabetajuega/2022/12/Se-ha-revelado-la-verdad-sobre-este-poderoso-Demonio.jpg",
+        "https://staticg.sportskeeda.com/editor/2023/06/6a54b-16864720273677-1920.jpg",
+        "https://images5.alphacoders.com/132/thumb-1920-1328671.jpeg",
+        "https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2023/04/Kimetsu-no-Yaiba-Akaza-regresa-de-las-sombras-con-este-cosplay-femenino-de-Kappy_w.jpg"
+      ],
+      "id": 14
+    },
+    {
+      "name": "Chrollo Lucilfer",
+      "serie": "Hunter X Hunter",
+      "about": "Chrollo Lucilfer es un personaje complejo y enigmático que ha desempeñado un papel importante en varios arcos de la serie \"Hunter x Hunter\". Su habilidad única de robar habilidades Nen y su liderazgo carismático lo convierten en un personaje inolvidable y en un rival formidable para los protagonistas de la historia.",
+      "image": "https://staticg.sportskeeda.com/editor/2023/06/5dd14-16872468632965-1920.jpg",
+      "status": "alive",
+      "powers": [
+        {
+          "name": "Líder Carismático",
+          "efectiveness": "10"
+        },
+        {
+          "name": "Nen",
+          "efectiveness": "10"
+        },
+        {
+          "name": "Agilidad y Destreza",
+          "efectiveness": "10"
+        },
+        {
+          "name": "Inteligencia Estratégica",
+          "efectiveness": "10"
+        },
+        {
+          "name": "Líder de la Tropa Fantasma",
+          "efectiveness": "10"
+        }
+      ],
+      "cover_photos": [
+        "https://pm1.aminoapps.com/8256/23d5323562919f6a7683347d9bd8c33da42c9e09r1-1280-720v2_uhq.jpg",
+        "https://images.alphacoders.com/116/1163407.jpg",
+        "https://pm1.aminoapps.com/8258/5dad574531dfaab4baaa0213dab897230b1185d4r1-736-414v2_hq.jpg",
+        "https://www.comicnity.com/wp-content/uploads/2021/06/Chrollo-Lucifer.jpg?ezimgfmt=ng%3Awebp%2Fngcb6%2Frs%3Adevice%2Frscb6-2",
+        "https://e1.pxfuel.com/desktop-wallpaper/813/695/desktop-wallpaper-kuroro-lucifuru-hunter-x-hunter-lucifer-and-hisoka.jpg",
+        "https://cdn.shopify.com/s/files/1/0252/1736/8154/files/Chrollo_Lucilfer_Hunter_x_Hunter_5_480x480.jpg?v=1619176431"
+      ],
+      "id": 15
     }
   ]
 }
